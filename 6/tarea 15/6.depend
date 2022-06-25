@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1655478320 source:c:\users\lucia\desktop\poo\ejercicios con h\6\tarea 15\funciones.cpp
+	"figura.h"
+	"rectangulo.h"
+	<iostream>
+	<iomanip>
+	<string.h>
+
+1655478328 source:c:\users\lucia\desktop\poo\ejercicios con h\6\tarea 15\main.cpp
+	"rectangulo.h"
+	<iostream>
+	<iomanip>
+
+1655479198 c:\users\lucia\desktop\poo\ejercicios con h\6\tarea 15\figura.h
+
+1655319151 c:\users\lucia\desktop\poo\ejercicios con h\6\tarea 15\rectangulo.h
+	"figura.h"
+

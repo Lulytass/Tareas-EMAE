@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1655581051 source:c:\users\lucia\desktop\poo\ejercicios con h\personavendedor\main.cpp
+	<iostream>
+	"Vendedor.h"
+	<iomanip>
+
+1655581480 c:\users\lucia\desktop\poo\ejercicios con h\personavendedor\vendedor.h
+	"Persona.h"
+
+1655581051 c:\users\lucia\desktop\poo\ejercicios con h\personavendedor\persona.h
+

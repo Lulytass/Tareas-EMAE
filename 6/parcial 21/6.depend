@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1655828305 source:c:\users\lucia\desktop\poo\ejercicios con h\6\parcial 21\main.cpp
+
+1655829148 source:c:\users\lucia\desktop\poo\ejercicios con h\6\parcial 21\funciones.cpp
+	<iostream>
+	<string.h>
+	"Figura.h"
+	"Rectangulo.h"
+
+1655828305 c:\users\lucia\desktop\poo\ejercicios con h\6\parcial 21\figura.h
+
+1655829044 c:\users\lucia\desktop\poo\ejercicios con h\6\parcial 21\rectangulo.h
+	"Figura.h"
+

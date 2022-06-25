@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1655242604 source:d:\materias\emae\programación orientada a objetos\ejemplos de clase 2022\herencia1\main.cpp
+	<iostream>
+	"Circulo.h"
+
+1655242604 d:\materias\emae\programación orientada a objetos\ejemplos de clase 2022\herencia1\circulo.h
+	"Punto.h"
+
+1655243005 d:\materias\emae\programación orientada a objetos\ejemplos de clase 2022\herencia1\punto.h
+
