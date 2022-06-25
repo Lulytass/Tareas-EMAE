@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1653431706 source:c:\users\lucia\desktop\poo\ejercicios con h\valorespredeterminados\funciones.cpp
+	<iostream>
+	"class.h"
+	<iomanip>
+
+1653430570 c:\users\lucia\desktop\poo\ejercicios con h\valorespredeterminados\class.h
+
+1653430626 source:c:\users\lucia\desktop\poo\ejercicios con h\valorespredeterminados\main.cpp
+	<iostream>
+	"class.h"
+	<iomanip>
+

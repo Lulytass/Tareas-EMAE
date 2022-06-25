@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1652221625 source:c:\users\lucia\desktop\poo\empleado2\main.cpp
+	<iostream>
+	"Empleado2.h"
+	<iomanip>
+
+1652221143 c:\users\lucia\desktop\poo\empleado2\empleado2.h
+

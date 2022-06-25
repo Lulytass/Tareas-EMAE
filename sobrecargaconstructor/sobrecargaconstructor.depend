@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1653428874 source:c:\users\lucia\desktop\poo\ejercicios con h\sobrecargaconstructor\funciones.cpp
+	<iostream>
+	"class.h"
+	<iomanip>
+
+1653429148 c:\users\lucia\desktop\poo\ejercicios con h\sobrecargaconstructor\class.h
+
+1653429497 source:c:\users\lucia\desktop\poo\ejercicios con h\sobrecargaconstructor\main.cpp
+	<iostream>
+	"class.h"
+	<iomanip>
+
