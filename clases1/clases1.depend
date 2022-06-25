@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1652213451 source:c:\users\lucia\desktop\poo\clases1\funciones.cpp
+	<iostream>
+	"Rectangulo.h"
+	<math.h>
+
+1652213002 c:\users\lucia\desktop\poo\clases1\rectangulo.h
+
+1652213194 source:c:\users\lucia\desktop\poo\clases1\main.cpp
+	<iostream>
+	"Rectangulo.h"
+

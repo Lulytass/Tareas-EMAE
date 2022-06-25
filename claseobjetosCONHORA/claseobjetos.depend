@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1651613985 source:c:\users\lucia\desktop\poo\claseobjetos\main.cpp
+	<iostream>
+	"Hora.h"
+
+1651613985 c:\users\lucia\desktop\poo\claseobjetos\hora.h
+
+1651614265 source:c:\users\lucia\desktop\poo\claseobjetos\funciones.cpp
+	<iostream>
+	<iomanip>
+	"Hora.h"
+

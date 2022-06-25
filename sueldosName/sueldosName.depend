@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1651621517 source:c:\users\lucia\desktop\poo\sueldosname\funciones.cpp
+	<iostream>
+	"Empleado.h"
+	<string.h>
+	<iomanip>
+
+1652208541 c:\users\lucia\desktop\poo\sueldosname\empleado.h
+
+1652208507 source:c:\users\lucia\desktop\poo\sueldosname\main.cpp
+	<iostream>
+	"Empleado.h"
+
