@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1654643551 source:c:\users\lucia\desktop\poo\ejercicios con h\ejercicio con destructor\funciones.cpp
+	"class.h"
+	<iostream>
+	<string.h>
+
+1654643368 c:\users\lucia\desktop\poo\ejercicios con h\ejercicio con destructor\class.h
+
+1654640494 source:c:\users\lucia\desktop\poo\ejercicios con h\ejercicio con destructor\main.cpp
+	<iostream>
+	"class.h"
+	<string.h>
+

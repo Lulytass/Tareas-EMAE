@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1654012442 source:c:\users\lucia\desktop\poo\ejercicios con h\practicasexamen\funciones.cpp
+	"class.h"
+	<string.h>
+
+1654012179 c:\users\lucia\desktop\poo\ejercicios con h\practicasexamen\class.h
+
+1654012954 source:c:\users\lucia\desktop\poo\ejercicios con h\practicasexamen\main.cpp
+	"class.h"
+	<iomanip>
+	<iostream>
+

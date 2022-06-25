@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1653508666 source:c:\users\lucia\desktop\poo\ejercicios con h\5\vendedortarea24\funciones.cpp
+	"class.h"
+	<string.h>
+	<iostream>
+
+1653508383 c:\users\lucia\desktop\poo\ejercicios con h\5\vendedortarea24\class.h
+
+1653509133 source:c:\users\lucia\desktop\poo\ejercicios con h\5\vendedortarea24\main.cpp
+	<iostream>
+	"class.h"
+	<string.h>
+
+1653693998 source:c:\users\lucia\desktop\poo\ejercicios con h\vendedortarea24-05\main.cpp
+	<iomanip>
+	<string.h>
+	"class.h"
+	<iostream>
+
+1653691902 c:\users\lucia\desktop\poo\ejercicios con h\vendedortarea24-05\class.h
+
+1653692017 source:c:\users\lucia\desktop\poo\ejercicios con h\vendedortarea24-05\funciones.cpp
+	<iomanip>
+	<string.h>
+	"class.h"
+	<iostream>
+

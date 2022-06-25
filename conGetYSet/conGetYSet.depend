@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1653433723 source:c:\users\lucia\desktop\poo\ejercicios con h\congetyset\funciones.cpp
+	<iostream>
+	"class.h"
+	<iomanip>
+
+1653433087 c:\users\lucia\desktop\poo\ejercicios con h\congetyset\class.h
+
+1653433844 source:c:\users\lucia\desktop\poo\ejercicios con h\congetyset\main.cpp
+	<iostream>
+	"class.h"
+	<iomanip>
+

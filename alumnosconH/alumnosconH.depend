@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1652284129 source:c:\users\lucia\desktop\poo\ejercicios con h\alumnosconh\main.cpp
+	<iostream>
+	"Alumno.h"
+	<iomanip>
+
+1652227857 c:\users\lucia\desktop\poo\ejercicios con h\alumnosconh\alumno.h
+
+1652284659 source:c:\users\lucia\desktop\poo\ejercicios con h\alumnosconh\funciones.cpp
+	<iostream>
+	"Alumno.h"
+	<math.h>
+	<iomanip>
+	<string.h>
+
